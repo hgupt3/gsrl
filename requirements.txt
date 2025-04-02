@@ -1,0 +1,14 @@
+torch>=1.10.0
+torchvision>=0.11.1
+numpy>=1.19.5
+matplotlib>=3.4.3
+seaborn>=0.11.2
+tqdm>=4.62.3
+Pillow>=8.4.0
+albumentations>=1.1.0
+datasets>=2.0.0
+scikit-learn>=1.0.1
+einops>=0.4.1
+timm>=0.6.7
+pathlib>=1.0.1
+argparse>=1.4.0
