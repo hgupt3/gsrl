@@ -313,14 +313,12 @@ mlp_net = MLP_net(base, num_classes=5)
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@misc{gupta2025sensorinvarianttactilerepresentation,
-    title={Sensor-Invariant Tactile Representation}, 
+@inproceedings{
+    gupta2025sensorinvariant,
+    title={Sensor-Invariant Tactile Representation},
     author={Harsh Gupta and Yuchen Mo and Shengmiao Jin and Wenzhen Yuan},
+    booktitle={The Thirteenth International Conference on Learning Representations},
     year={2025},
-    eprint={2502.19638},
-    archivePrefix={arXiv},
-    primaryClass={cs.RO},
-    url={https://arxiv.org/abs/2502.19638}, 
 }
 ```
 
