@@ -2,6 +2,8 @@
 
 This is the official codebase for the paper "Sensor-Invariant Tactile Representation" (ICLR 2025). For more details, visit our [project website](https://hgupt3.github.io/sitr/) or read the [arXiv paper](https://arxiv.org/abs/2502.19638).
 
+For instructions on how to generate your own simulation dataset, you can visit our generation [repo](https://github.com/hgupt3/gs_blender).
+
 ## Table of Contents
 - [Overview](#overview)
 - [Installation](#installation)
